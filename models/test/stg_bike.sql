@@ -19,5 +19,3 @@ select
   * 
 from bike
 
-
--- test 

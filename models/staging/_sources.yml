@@ -1,0 +1,13 @@
+
+
+sources:
+  - name: tasty_bytes
+    database: sales
+    schema: raw
+    tables:
+      - name: order_header
+      - name: order_detail
+      - name: customer_loyalty
+      - name: truck
+      - name: location
+      
